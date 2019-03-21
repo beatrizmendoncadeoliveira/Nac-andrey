@@ -1,0 +1,14 @@
+#cabecalho h1{
+	color:darkgrey;
+	text-align:center;
+}
+*{
+	font-family:Arial;
+}
+#corpo{
+	color: #333;
+}
+#rodape{
+	text-align:center;
+
+}
